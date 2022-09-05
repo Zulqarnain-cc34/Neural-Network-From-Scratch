@@ -76,7 +76,8 @@ _For more examples, please refer to the [Documentation](https://github.com/Zulqa
 - [x] Chapter 6
 - [x] Chapter 7
 - [x] Chapter 8
-- [ ] Chapter 9
+- [x] Chapter 9
+- [ ] Chapter 10
 
 <!-- LICENSE -->
 ## License
