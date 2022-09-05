@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Zulqarnain-cc34/Neural-Network-From-Scratch>
+  <a href="https://github.com/Zulqarnain-cc34/Neural-Network-From-Scratch">
     <img src="assets/neuron.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -63,7 +63,7 @@ To get a local copy up and just git clone the repo and open the jupyter notebook
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://github.com/Zulqarnain-cc34/Neural-Network-From-Scratch/blob/main/notebooks/README.md)
 
 
 <!-- ROADMAP -->
@@ -73,8 +73,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [x] Chapter 3
 - [x] Chapter 4
 - [x] Chapter 5
-- [ ] Chapter 6
-- [ ] Chapter 7
+- [x] Chapter 6
+- [x] Chapter 7
+- [x] Chapter 8
+- [ ] Chapter 9
 
 <!-- LICENSE -->
 ## License
