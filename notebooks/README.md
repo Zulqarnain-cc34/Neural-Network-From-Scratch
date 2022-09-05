@@ -12,7 +12,8 @@
     <li><a href="#c5">Chapter 5</a></li>
     <li><a href="#c6">Chapter 6</a></li>
     <li><a href="#c7">Chapter 7</a></li>
-    <li><a href="#Chapter8">Chapter 8</a></li>
+    <li><a href="#c8">Chapter 8</a></li>
+    <li><a href="#c9">Chapter 9</a></li>
   </ol>
 </details>
 
@@ -40,3 +41,6 @@ SHows the inner workings of the neural networks which are modeled from the brain
 
 ### Chapter 8: Matrix Multiplication is useful
 SHows how matrices makes it easy for us to do calculation in neural networks and shows an example with a 2 input 2 layer neural network.
+
+### Chapter 9: BackProagation
+Talks about how backpropagation works in neural networks.
