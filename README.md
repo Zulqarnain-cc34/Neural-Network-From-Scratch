@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Zulqarnain-cc34/Personal-Mentor">
+  <a href="https://github.com/Zulqarnain-cc34/Neural-Network-From-Scratch>
     <img src="assets/neuron.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -69,9 +69,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Chapter 2
-- [ ] Chapter 3
-- [ ] Chapter 4
+- [x] Chapter 2
+- [x] Chapter 3
+- [x] Chapter 4
+- [x] Chapter 5
+- [ ] Chapter 6
+- [ ] Chapter 7
 
 <!-- LICENSE -->
 ## License
