@@ -1,22 +1,4 @@
-
-# Documentation
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#c1">Chapter 1</a></li>
-    <li><a href="#c2">Chapter 2</a></li>
-    <li><a href="#c3">Chapter 3</a></li>
-    <li><a href="#c4">Chapter 4</a></li>
-    <li><a href="#c5">Chapter 5</a></li>
-    <li><a href="#c6">Chapter 6</a></li>
-    <li><a href="#c7">Chapter 7</a></li>
-    <li><a href="#c8">Chapter 8</a></li>
-    <li><a href="#c9">Chapter 9</a></li>
-  </ol>
-</details>
-
+### Overview
 
 🎉 Welcome to this amazing tutorial series on neural networks! 🧠
 We'll guide you through the fascinating journey of understanding and implementing these powerful tools. 🚀
