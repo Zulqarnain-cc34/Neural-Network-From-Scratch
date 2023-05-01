@@ -18,29 +18,38 @@
 </details>
 
 
-### Chapter 1: Simple Predictor:
-Talks about how comoputers are simple predicting machines without thinking but we can implement it and shows it using an example.
+🎉 Welcome to this amazing tutorial series on neural networks! 🧠
+We'll guide you through the fascinating journey of understanding and implementing these powerful tools. 🚀
+Let's dive into each chapter:
 
-### Chapter 2: Classifier is not so different from Predictor
-Talks about how a simple predictor can be made into a classifier and shows it using an example.
+### Chapter 1: Simple Predictor: 💡
+Discover how computers are simple predicting machines without thinking!
+We'll show you how to implement this concept with a fun example. 🖥️
 
-### Chapter 3: Learning Rate
-Talks about how a Learning rate works to moderate our updates.
+### Chapter 2: Classifier is not so different from Predictor 🔄
+We'll explore how a simple predictor can transform into a classifier,
+and illustrate this with a captivating example. 🎯
 
-### Chapter 4: Sometimes One Classifier is not Enough
-Talks about how a One Classifier might not be enough and shows an example, the XOR example.
+### Chapter 3: Learning Rate 🏃‍♂️
+Uncover the magic of the learning rate and how it helps to moderate our updates in the learning process. ⚖️
 
-### Chapter 5: Neuron and Activation Function
-Talks about how a Neuron structure looks like and how it has an activation function.
+### Chapter 4: Sometimes One Classifier is not Enough 🧩
+Learn why one classifier might not be enough and unravel the mystery of the XOR example. ❌
 
-### Chapter 6: Modeling an Artificial Neural Network
-Talks about how a to model an artificial structure of brain, neurons.
+### Chapter 5: Neuron and Activation Function 🧪
+Get an up-close look at the structure of a neuron and how the activation function plays a vital role in neural networks. 🔬
 
-### Chapter 7: Understanding Neural Networks
-SHows the inner workings of the neural networks which are modeled from the brain.
+### Chapter 6: Modeling an Artificial Neural Network 🎨
+Master the art of modeling an artificial structure of the brain with neurons, creating your own neural masterpiece! 🌟
 
-### Chapter 8: Matrix Multiplication is useful
-SHows how matrices makes it easy for us to do calculation in neural networks and shows an example with a 2 input 2 layer neural network.
+### Chapter 7: Understanding Neural Networks 🕵️‍♂️
+Peek inside the inner workings of neural networks, modeled after our very own brains. 🧠
 
-### Chapter 9: BackProagation
-Talks about how backpropagation works in neural networks.
+### Chapter 8: Matrix Multiplication is useful 📐
+Unlock the power of matrices, making calculations in neural networks a breeze.
+We'll demonstrate this with a 2-input, 2-layer neural network example. 🧮
+
+### Chapter 9: BackPropagation 🌊
+Dive into the world of backpropagation and learn how it works in neural networks. 💫
+
+Get ready to embark on this exciting adventure, as we take you from the basics of neural networks to implementing your very own machine learning library! 🤖🌟
